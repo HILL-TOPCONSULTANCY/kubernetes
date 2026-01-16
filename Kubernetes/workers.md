@@ -15,7 +15,7 @@ sudo -i
 ```sh
 vi node.sh
 ```
-+ paste the script below and run sh _master.sh_
++ paste the script below and run sh _node.sh_
 ```sh
 #!/bin/bash
 # common.sh
